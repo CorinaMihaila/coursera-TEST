@@ -1,0 +1,15 @@
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#main-content {
+	height: 2000px;
+	background-color: #E7E7FF;
+	margin: 2%;
+}
